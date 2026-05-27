@@ -1,0 +1,977 @@
+<?xml version='1.0' ?>
+<!doctype root system "http://www.cs.washington.edu/research/projects/xmltk/xmldata/data/auctions/ebay.dtd">
+<root>
+                   <listing>
+   <seller_info>
+       <seller_name> cubsfantony</seller_name>
+       <seller_rating> 848</seller_rating>
+   </seller_info>
+   <payment_types>visa/mastercard, money order/cashiers checks, personal checks, see item description for payment methods accepted
+   </payment_types>
+   <shipping_info>buyer pays fixed shipping charges, will ship to united states only
+   </shipping_info>
+   <buyer_protection_info>
+   </buyer_protection_info>
+   <auction_info>
+     <current_bid>$620.00 </current_bid>
+     <time_left> 4 days, 14 hours +  </time_left>
+     <high_bidder> 
+        <bidder_name> gosha555@excite.com </bidder_name>
+        <bidder_rating>-2 </bidder_rating>
+     </high_bidder>
+     <num_items>1 </num_items>
+     <num_bids>  12</num_bids>
+     <started_at>$1.00 </started_at>
+     <bid_increment> </bid_increment>
+     <location> usa/chicago</location>
+     <opened> nov-27-00 04:57:50 pst</opened>
+     <closed> dec-02-00 04:57:50 pst</closed>
+     <id_num> 511601118</id_num>
+     <notes>  </notes>
+   </auction_info>
+   <bid_history>
+       <highest_bid_amount>$620.00   </highest_bid_amount>
+       <quantity> 1</quantity>
+   </bid_history>
+   <item_info>
+      <memory> 256mb pc133 sdram</memory>
+      <hard_drive> 30 gb 7200 rpm ide hard drive</hard_drive>
+      <cpu>pentium iii 933 system  </cpu>
+      <brand> </brand>
+      <description> new pentium iii 933 system - 133 mhz bus speed pentium motherboard, intel pentium iii 933 processor, ball bearing cooling fan, 256mb pc133 sdram, 30 gb 7200 rpm ide hard drive, panasonic cd-rw 8x4x32 - ati all-in-wonder 128 pro 32mb agp video card with tv tuner, 3 1/2" floppy drive, 12x dvd drive, creative's soundblaster live! value sound card, 56k v90 us robotics fax/modem, 10/100 network card, microsoft internet keyboard, microsoft intellimouse, and sub-woofer speaker set, 19" color monitor (1600 x 1200 ni).26dp. windows 98 2nd edition is installed for configuration purposes only and then removed prior to shipping. contact me at the end of the auction concerning operating system options. 1 year warranty on parts and labor (3 years on monitor from mfg). buyer agrees to prepay by check or money order within 7 days of auction close. credit cards accepted through ebay's billpointand paypal. shipment guaranteed within 10 business days from receipt of payment! no cod or on-line escrow. buyer agrees to pay $65.00 for shipping and insurance. no reserve price.. bid with confidence with one of ebay's id verified power sellers and recipient of ebay's certificate of distinction. please note: due to the high cost of the system and possible upgrades the system will be built once payment is received. please allow up to 10 business days for the build, testing and burn-in period. please allow 3 to 5 additional business days for shipping via ups ground service. do not bid if you do not plan to finalize your transaction
+      </description>
+   </item_info>
+</listing>
+
+                   <listing>
+   <seller_info>
+       <seller_name> ct-inc</seller_name>
+       <seller_rating> 403</seller_rating>
+   </seller_info>
+   <payment_types>visa/mastercard, discover, money order/cashiers checks, personal checks, see item description for payment methods accepted
+   </payment_types>
+   <shipping_info>buyer pays actual shipping charges, will ship to united states and the following regions: canada, see item description for shipping charges
+   </shipping_info>
+   <buyer_protection_info>
+   </buyer_protection_info>
+   <auction_info>
+     <current_bid> $620.00</current_bid>
+     <time_left> 2 days, 6 hours +</time_left>
+     <high_bidder> 
+        <bidder_name> petitjc@yahoo.com</bidder_name>
+        <bidder_rating> 0</bidder_rating>
+     </high_bidder>
+     <num_items>1 </num_items>
+     <num_bids>  19</num_bids>
+     <started_at> $0.01</started_at>
+     <bid_increment> </bid_increment>
+     <location> usa/los angeles</location>
+     <opened> nov-26-00 20:54:15 pst</opened>
+     <closed> nov-29-00 20:54:15 pst</closed>
+     <id_num> 511448507</id_num>
+     <notes>  </notes>
+   </auction_info>
+   <bid_history>
+       <highest_bid_amount>$680.00
+       </highest_bid_amount>
+       <quantity> 1</quantity>
+   </bid_history>
+   <item_info>
+      <memory> 256mb pc-133 sdram </memory>
+      <hard_drive>30.7gb ibm deskstar ata100 7200rpm </hard_drive>
+      <cpu> intel pentium iii 800eb-mhz coppermine cpu </cpu>
+      <brand> cybertech</brand>
+      <description> intel pentium iii 800eb-mhz coppermine cpu retail box 
+
+msi 815e pro intel solano2 815e ata100, 4x agp motherboard 
+
+256mb pc-133 sdram (lifetime warranty!!) 
+
+30.7gb ibm deskstar ata100 7200rpm gmr head hard drive 
+
+ati all-in-wonder 128 pro 32mb 4x agp ultimate all-in-one graphic engine
+intelligent tv-turner, video in&amp;out and more..... (wow!) 
+
+pioneer 5th generation 16x dvd-rom drive 
+yamaha 8x4x24x cd-rw internal drive
+
+ac ' 97 digital full duplex sound card
+labtec lcs-2414 3-piece satellite subwoofer speaker set 
+  
+lucent 56.6k v.90 standard data/fax pci modem 
+1.44mb 3.5" floppy drive 
+
+transparent hi-res ps/2 mouse
+translucent multimedia internet smart ps/2 keyboard
+translucent i-pc color super mid tower case w/ 300watts p/s 
+  
+3 year limited parts and 1 year labor warranty 
+(all systems are complete and brand new.) 
+upgrades available!   
+  amazing speed, highest quality, super power, and great looks......!  
+    specifications   
+
+motherboard     
+ 
+    msi 815e pro (ms-6337) 
+   cpu
+       support socket 370 for intel(r) celerontm/pentium(r)
+         iii (fc-pga) processor
+       supports 500mhz~933mhz or faster processor 
+
+   chipset
+     intel(r) 815e chipset. (544 bga)
+       -- agp 4x/2x universal slot
+       -- supports 66/100/133mhz fsb
+
+     intel(r) ich2 chipset. (241 bga)
+       -- ac!&amp;97 controller integrated
+       -- 2 full ide channels, up to ata100
+       -- low pin count interface for sio
+
+ fsb
+      supports 66/100/133mhz fsb
+
+   main memory
+      supports four 168-pin dimm sockets.
+      supports 32 to 512mb using 16/64/128/256mbit technology.
+
+   slots
+      one cnr (communication network riser).
+      one agp (accelerated graphics port) 2x/4x slot.
+      five pci 2.2 32-bit master pci bus slots.
+      supports 3.3v/5v pci bus interface.
+
+   on-board ide
+      an ide controller on the ich2 chipset provides ide hdd/cd-rom with pio,
+        bu
+  
+
+hard drive   
+
+ 
+   deskstar 75gxp, 30 gb, 7200 rpm, ultra ata/100 
+the ibm deskstar 75gxp disk drives** combine the performance and capacity to handle a wide range of advanced desktop and audio/video applications. 
+product specifications
+
+offers 30 gb, 7200 rpm rotational speed with media transfer rates of 444 mb/sec and average seek times of 8.5 ms to enable a sustained data transfer rate of up to 37mb/second. 
+all models are ata compatible to 100 mb/s. 
+height(mm) 25.4, width(mm) 101.6, depth(mm) 146 
+features and benefits 
+the first desktop drive with the ibm safety ramp feature (head load/unload capability) helps protect data by moving the heads off the media surface when powering down. 
+glass media, differential preamplifier, and fifth generation gmr heads enable this level of performance by increasing track capacity an average of 41 percent. 
+a laminated top cover and ceramic spindle bearings reduce drive acoustics by up to 7 db. 
+ 
+  
+      
+video card   
+
+
+the ultimate all-in-one tv, video and graphics card. 
+
+move your mouse over the images below to find more information
+on the components and capabilities of ati's all-in-wonder 128 pro 4x agp. 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+    
+  ati all-in-wonder 128 pro 32mb is the latest in an award-winning series of products. powered by world-leading rage 128 graphics technology, it provides stunningly fast 3d graphics, dvd video playback, still and motion video capture, intelligent tv-tuner, instant replay, digital vcr with mpeg-2 video compression, video-out, webtv for windows, and much more. one easy to install card does it all. 
+  
+      
+dvd rom   
+  
+
+  
+
+
+  pioneer 5th generation 16x dvd-115s drive
+* pioneer'  
+
+hard drive   
+
+ 
+   deskstar 75gxp, 45 gb, 7200 rpm, ultra ata/100 
+the ibm deskstar 75gxp disk drives** combine the performance and capacity to handle a wide range of advanced desktop and audio/video applications. 
+product specifications
+
+offers 45 gb, 7200 rpm rotational speed with media transfer rates of 444 mb/sec and average seek times of 8.5 ms to enable a sustained data transfer rate of up to 37mb/second. 
+all models are ata compatible to 100 mb/s. 
+height(mm) 25.4, width(mm) 101.6, depth(mm) 146 
+features and benefits 
+the first desktop drive with the ibm safety ramp feature (head load/unload capability) helps protect data by moving the heads off the media surface when powering down. 
+glass media, differential preamplifier, and fifth generation gmr heads enable this level of performance by increasing track capacity an average of 41 percent. 
+a laminated top cover and ceramic spindle bearings reduce drive acoustics by up to 7 db. 
+ 
+  
+      
+video card       ati radeon 32mb ddr  
+powered by the ati radeontm graphics processing unit (gpu) 
+32mb of powerful double data rate (ddr) memory 
+featuring ati's charisma enginetm and pixel tapestrytm technologies 
+the most robust integrated transformation and lighting (t&amp;l) 
+accelerates all of today's top 3d games 
+industry best dvd playback 
+supports 3d resolutions (32-bit color) up to 2048x1536 
+agp universal bus (for agp 2x/4x systems) 
+  
+  
+   
+ highest quality performance 
+radeontm comes powered by 32mb of ddr memory to accelerate all of today's hottest 3d games 
+with ddr memory you get twice the memory bandwidth for the highest data transfer rates through the pipeline 
+delivers immersive, realistic 32-bit true color 3d graphics at the fastest possible framerates 
+features ati's hyperztm technology that improves memory bandwidth without the added cost of embedded or proprietary memory. 
+ultimate 3d game support
+
+the most complete implementation of the directx. feature set 
+radeontm supports more features of directx. 8.0 than any other graphics board on the market 
+instant superior 3d game support right out of the box with full acceleration for today's hottest 3d games 
+full support and compliance for powerful and demanding directx. and opengl games and applications 
+best visual reality
+
+radeontm graphics boards feature the leading-edge technology of the radeontm gpu 
+the radeontm charisma enginetm supports full transformation, clipping and lighting (t&amp;l) at 30 million/second processing capability for a 10-fold improvement in 3d details 
+3d game characters are brought to life with the charisma enginetm support for other cutting-edge character animation such as vertex skinning and key frame interpolation 
+pixel tapestrytm, the radeontm 3d rendering engine, powers up to an incredible 1.5 gigatexels per second for unsurpassed graphics performance 
+industry best dvd playback
+
+process full-frame rate, full-screen dvd or mpeg-2 video 
+hardware dvd saves the expense of buying a separate mpeg-2/dvd decoder card 
+integrated idct and motion compensation allows for dvd decoding with minimum cpu usage 
+hdtv ready 
+display support
+
+
+register compatible with vga 
+bios compatible with vesa for super vga 
+ddc1/2b/2b+ monitor support 
+vesa display power management support 
+separate horiz &amp; vert sync at ttl levels 
+3d acceleration features
+
+charisma enginetm 
+pixel tapestrytm architecture 
+integrated transformation, clipping and lighting 
+twin cache architecture 
+superscalar rendering 
+single-pass multi-texturing 
+true color rendering 
+triangle setup engine 
+texture cache 
+bilinear/trilinear filtering 
+line &amp; edge anti-aliasing 
+texture compositing 
+texture decompression 
+specular highlights 
+perspectively correct texture mapping 
+mip-mapping 
+z-buffering and double-buffering 
+emboss, dot product 3 and environment bump mapping 
+spherical, dual-paraboloid and cubic environment mapping 
+fog effects, texture lighting, video textures, reflections, shadows, spotlights, lod biasing and texture morphing 
+display modes: resolutions, colors and maximum refresh rates (hz) resolution 640x480
+ 800x600
+ 1024x768
+ 1152x864
+ 
+256 colors 200 200 200 150 
+65k colors 200 200 200 150 
+16.7m colors (32bpp) 200 200 200 150 
+continued from above 
+resolution 1280x1024
+ 1600x1200
+ 1920x1440
+ 2048x1536
+ 
+256 colors 130 90 75 75 
+65k colors 130 90 75 75 
+16.7m colors (32bpp) 130 90 75 75 
+
+  
+      
+ 
+  
+dvd rom    
+ 
+
+  
+
+
+  pioneer 5th generation 16x dvd-115s drive
+* pioneer's most sophisticated dvd drive yet!
+* reads single and dual layer dvd-rom/video discs, dvd-r discs, cd-rom discs, audio cds, cd-r/rw discs, video cds, photo cds, hybrid cds, cd-extra discs and cd-text.
+a single sided, single layer dvd offers seven times the data storage capacity of cd-rom disc, while a double-sided, dual-layer dvd holds the equivalent of 25 cd-roms. the new dvd-a115s takes full advantage of dvd's enhanced features while preserving compatibility with conventional cd-rom, cd-da disc and cd-r/rw discs.
+*ultimate transfer rate
+recent advantages in laser pickup and signal error correction technology have made it possible for the dvd-a115s to transfer data from dvds at the amazing speed of 13.5 mb/s or 10 times the standard dvd transfer rate. in additioan, this model is capable of reading cd-rom data at 6.0 mb/s or 40 times the standard rate.
+* high-speed average access time - dvd-rom: 95ms, cd-rom: 85ms
+the dvd-a104s's overall performance is enhanced by its ability to rapidly access specific data areas. when dvd-rom discs are read, the average random access time is just 100 ms. and when scanning cd-rom discs with their lower data storage density, the access speed is further improved to 80 ms.
+
+  
+cd-rw 
+  put your world on cd 
+
+
+   
+teac cdw512e 12x10x32x super fast cd-re writer drive 
+
+whether you're storing large presentations and graphics, creating your own custom audio cds, transporting files from work, or simply backing up your most valuable data, the teac 12x10x32 fits the job. just drag and drop onto either cd-r or cd-rw media. cd-rw provides a quick and easy way to write and rewrite up to 700mb. and with over 200 million cd-rom drives  and 600 million audio cd players installed worldwide, cd-r media delivers unmatched compatibility. 
+
+internal cd-rw drive 
+ide interface 
+12x write, 10x rewrite, and 32x read  
+700mb of data capacity 
+80min of audio capacity 
+plug and play compatible 
+
+  
+case     
+true translucent color case
+* atx mid tower
+*highest grade plastic case (front, back, side)
+* comes with 3 different types of atx i/o shields(back plates)
+* absolutely tool-less (side panel opens up)
+* sturdy &amp; artistic design
+* coating heavy duty steel
+* comes with extra cooling fan in the front side
+* interference of electromagnetic-wave blocked
+* hand-cutting free dimension: 7 7/8" x 17 1/4" x 18 1/8" three external 5.25" drive bays two external 3.5" drive bays two internal 3.5" x 2 hard disk bays, total 7 slots
+* guaranteed for its quality craftsmanship
+* colors black, orange, green, purple, blue, and new!all clear available to choose from!
+
+  
+keyboard     
+multimedia smart keyboard
+
+this translucent keyboard has a lot of features including: on/off power button for pc, cd rom control functions, email &amp; www button, volume controls, and much more.
+
+  
+speaker   
+  altec lansing acs54 5-piece satellite speaker set 
+
+powerplay plus is designed especially for gamers to provide high quality, powerful surround sound game audio output.
+
+powerful 40 watt, high performance 5-piece system 
+compact speaker satellites are power and magnetically shielded 
+unique bracket/stands provide convenient mounting possibilities for surround speakers 
+powered wood subwoofer 
+ extends the low frequency response to add realism and bass 
+separate controls for master and surround adjustments 
+specification 
+driver (per satellite): one 3 inch full range driver 
+driver (subwoofer): one 4 inch long throw 
+frequency response: 38hz - 18khz 
+satellite power: 20 watts 
+subwoofer power: 20 watts 
+input impedance: >10k ohms 
+s/n ratio: >65 db 
+ 
+ 
+monitor    
+ 
+kds avitron av-195tf
+
+19" ft sony trinitron. tube technology, supre fine 0.24mm true flat screen monitor
+
+the av-195tf employs fd trinitron. technology for high end graphics use. representing the latest in monitor technology, the new av-195tf offers 18.0 viewable inches of flat screen viewing space. a 0.24 mm aperture grille pitch along with a maximum resolution of 1600x1200 compliments the display. the true flat screen coupled with the use of trinitron. tube technology means the user gets a crisp picture without the curvature of a standard crt monitor. the av-195tf is fully protected under kds 
+
+
+--------------------------------------------------------------------------------
+ 
+?/td>  
+ 
+the intel pentium iii processor offers internet streaming simd extensions, 70 new instruction 
+?/td>  
+
+
+?/td>  
+ 
+
+--------------------------------------------------------------------------------
+ 
+
+  ?new intel?pentium iii?/b> 800eb mhz socket 370 cpu 
+
+intel pentium iii 800eb processor 
+133mhz bus speed 
+fcpga chip 
+retail box 
+0.18 micron process technology 
+3 years manufacturer warranty 
+
+ 
+ 
+ 
+ 
+
+hard drive  
+ 
+ 
+
+
+ 
+ 
+ maxtor 40gb diamondmax?80 ultra dma 100 drives 
+ 
+ 
+the diamondmax?/b> disk drives** combine the performance and capacity to handle a wide range of advanced desktop and audio/video applications.  
+ 
+
+
+
+ 
+maximize your computers' data storage potential with a maxtor diamondmax? 80 hard drive. they employ maxtor's adaptive ata control? for unsurpassed data integrity and the new maxtor silent store?technology for superior quiet acoustic performance. they have formatted capacities up to 40gb, a sub-9.0 ms average seek time and an ultra ata/100 interface coupled with a high-speed 2 mb sdram cache buffer for data transfer speeds up to 100 megabytes per second. diamondmax 80 drives are ideally suited to storage-hungry multimedia and internet environments where burst and sustained transfer rates are crucial. whether your application is technical, multimedia, or internet, the diamondmax 80 delivers performance you can feel. 
+ 
+ 
+ 
+
+
+--------------------------------------------------------------------------------
+if you should have any question, please feel free to email us at 
+sales@ctgcom.com. 
+ 
+
+--------------------------------------------------------------------------------
+
+dvd-rom 
+ 
+ 
+ 
+ 
+ hitachi 12x gd-7000 dvd-rom drive 
+ 
+ 
+
+
+
+
+--------------------------------------------------------------------------------
+ 
+
+
+high speed, 12xmax dvd-rom, 40xmax cd-rom 
+capable of reading dvd-ram recorded media (4.7gb/side, 2.6gb/side) 
+plays single and dual layer dvd-rom discs from 4.7gb to 17gb 
+backwards compatible with cd-rom, cd-r, &amp; cd-rw 
+convenient atapi interface 
+windows ?3.x/95/98, windowsnt ?and windows 2000 ?compatible. 
+plug &amp; play capability 
+low vibration/noise 
+high reliability -mtbf:125,000poh, dust-free chassis 
+low power consumption 
+installable horizontally and ver tically (on both sides) 
+ 
+ 
+ 
+ 
+
+cd-rw 
+ 
+ 
+ 
+ 
+ yamaha crw8424ez 8x4x24 cd-re writer drive  
+ 
+ 
+? 
+ 
+
+
+
+
+
+ 
+description 
+ 
+trust your important data to yamaha cd-rw drives. recordable and rewritable cds are ideal for any storage purpose: they hold 650mb of data or music, offer complete security and reliability and are compatible with 300 million computers worldwide. yamaha 3-in-1 cd-rw drives are your best choice for creating cds. with their superior quality, speed, features and bundled software, they have received numerous awards and excellent reviews from every corner of the computer industry.  
+ 
+ 
+ 
+
+
+a revolutionary screwless transtar atx tower case with 300w. 
+--------------------------------------------------------------------------------
+ 
+
+the latest screwless design. 
+removeable face panel &amp; side panel. 
+includes seven (7) i/o slots on rear panel 
+features cover design-face panel &amp; slides open and lock 
+vent holes on door and two side panels for better thermal performance 
+removable face panel 
+removeable side panels (both sides) 
+300w high-quality power supply guarantee support 1.13ghz cpu 
+  the zinc pre-plate thermal features and solutions are engineered to guard the system from overheating and support the latest high performance processors. 
+no rough cut edges for safer assembly, and very wide-open internal space to install motherboard. 
+all panel and chassis are ul approved and compliance with fcc regulatio 
+easy upgrade your hardwares. 
+no scews needed to lock &amp; unlock your drives (floppy, hard drive, cd-rom, zip drive, dvd-rom, ls-super drive...) 
+comes with newly designed drive clippers 
+ 
+
+mouse 
+ 
+ 
+ 
+ 
+ logitech first wheel mouse?(ps2) 
+ 
+ 
+performs today; ready for tomorrow. plugs into the ps2 port on any windows?system on windows 98 and macintosh?8.5 or later systems. comfortable control for left and right hands. use the wheel to scroll without scrollbars in windows 95, 98, nt?4.0 or macintosh 8.5 systems.  
+ 
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+- innovative scroll wheel 
+- usb plug and play ready 
+- ideal for right or left handed users 
+- 2-year warranty  
+ 
+ 
+ 
+
+keyboard 
+ 
+ 
+ 
+ 
+ multimedia smart keyboard  
+ 
+ 
+this translucent keyboard has a lot of features including: on/off power button for pc, cd rom control functions, email &amp; www button, volume controls, and much more. 
+ 
+
+
+ 
+ 
+ 
+ 
+
+speaker 
+ 
+ 
+ 
+ 
+ 4q qxf-2 amplified power speaker set  
+ 
+ 
+
+
+--------------------------------------------------------------------------------
+* power output(r.m.s.):7w+7w 
+* built-in amplifier for clear crisp sound 
+* convenient on/off power button, master volume 
+* headphone jack for private listening 
+* integrated ac power supply 
+* dimension (wxhxd):2.7s5x 7x4.5?/font> 
+ 
+ 
+ 
+enabling advanced imaging, 3d, streaming audio and video, and speech recognition for an enhanced internet experience. versions also include an advanced transfer cache and advanced system buffering to meet the higher data bandwidth requirements of todays most sophisticated dvd drive yet!
+* reads single and dual layer dvd-rom/video discs, dvd-r discs, cd-rom discs, audio cds, cd-r/rw discs, video cds, photo cds, hybrid cds, cd-extra discs and cd-text.
+a single sided, single layer dvd offers seven times the data storage capacity of cd-rom disc, while a double-sided, dual-layer dvd holds the equivalent of 25 cd-roms. the new dvd-a115s takes full advantage of dvd's enhanced features while preserving compatibility with conventional cd-rom, cd-da disc and cd-r/rw discs.
+*ultimate transfer rate
+recent advantages in laser pickup and signal error correction technology have made it possible for the dvd-a115s to transfer data from dvds at the amazing speed of 13.5 mb/s or 10 times the standard dvd transfer rate. in additioan, this model is capable of reading cd-rom data at 6.0 mb/s or 40 times the standard rate.
+* high-speed average access time - dvd-rom: 95ms, cd-rom: 85ms
+the dvd-a104s's overall performance is enhanced by its ability to rapidly access specific data areas. when dvd-rom discs are read, the average random access time is just 100 ms. and when scanning cd-rom discs with their lower data storage density, the access speed is further improved to 80 ms.
+
+  
+case     
+true translucent color case
+* atx mid tower
+*highest grade plastic case (front, back, side)
+* comes with 3 different types of atx i/o shields(back plates)
+* absolutely tool-less (side panel opens up)
+* sturdy &amp; artistic design
+* coating heavy duty steel
+* comes with extra cooling fan in the front side
+* interference of electromagnetic-wave blocked
+* hand-cutting free dimension: 7 7/8" x 17 1/4" x 18 1/8" three external 5.25" drive bays two external 3.5" drive bays two internal 3.5" x 2 hard disk bays, total 7 slots
+* guaranteed for its quality craftsmanship
+* colors black, orange, green, purple, blue, and all clear color available to choose from.
+
+  
+keyboard     
+multimedia internet smart keyboard
+this translucent keyboard has a lot of features including: on/off power button for pc, cd rom control functions, email &amp; www button, volume controls, and much more.
+  
+speaker    
+
+  labtec lcs-2414
+computer speaker and subwoofer system
+
+as part of the award-winning family of audio f/x series speakers, the lcs-2414 was designed to provide high-performance computer audio in a compact design. this three-piece system produces deep, rich bass and realistic effects that will enhance your overall home and pc audio experience.
+
+wood enclosure subwoofer designed for floor placement
+
+color coded jacks and plugs
+power on/off switch
+max-x drivers - high excursion drivers that allow for greater dynamic range, improved bass and lower distortion 
+break-through performance in a compact three-piece satellite/subwoofer system 
+ergonomic, space-efficient satellite speakers. 
+space-efficient ergonomic satellite speakers with volume control 
+frequency response: 40hz-20khz 
+speaker impedance: 4 ohms 
+power output: 25 watts rms: subwoofer - 15 watts; satellites - 10 watts, (5w + 5w)
+
+ 
+cd-rw   
+
+
+
+]
+
+
+ 
+yamaha crw8424ez 8x4x24 cd-re writer drive
+
+trust your important data to yamaha cd-rw drives. recordable and rewritable cds are ideal for any storage purpose: they hold 650mb of data or music, offer complete security and reliability and are compatible with 300 million computers worldwide. yamaha 3-in-1 cd-rw drives are your best choice for creating cds. with their superior quality, speed, features and bundled software, they have received numerous awards and excellent reviews from every corner of the computer industry.
+
+ 
+s master and ultra dma 66/100 operation modes.
+      can connect up to four ide devices.
+
+   audio
+      ich2 chip integrated
+      supports 6 or 4 channel audio
+
+   video
+      gmch chip integrated
+      2d/3d graphics
+      intel(r) d.v.m technology
+      flexible agp in-line memory module (aimm) (optional)
+      one agp slot for external agp card
+
+   on-board peripherals
+      on-board peripherals include:
+       -- 1 floppy port supports 2 fdd with 360k, 720k, 1.2m, 1.44m and 2.88mbytes.
+       -- 1 serial ports (com a) 
+       -- 1 parallel port supports spp/epp/ecp mode
+       -- 4 usb ports ( rear*2 / front*2 )
+       -- 1 vga port
+
+   bios
+      the mainboard bios provides "plug &amp; play" bios which detects the peripheral
+        devices and expansion cards of the board automatically.
+      the mainboard provides a desktop management interface(dmi) function which
+        records your mainboard specifications.
+
+ 
+
+cpu   
+
+  
+    
+
+the intel. pentium. iii 800eb-mhz coppermine with 256k on-die cache
+
+the intel. pentium. iii processor, intel
+      </description>
+   </item_info>
+</listing>
+
+                   <listing>
+   <seller_info>
+       <seller_name> ct-inc</seller_name>
+       <seller_rating> 403</seller_rating>
+   </seller_info>
+   <payment_types>money order/cashiers checks, personal checks, see item description for payment methods accepted
+   </payment_types>
+   <shipping_info>buyer pays actual shipping charges, will ship to united states and the following regions: canada, see item description for shipping charges
+   </shipping_info>
+   <buyer_protection_info>
+   </buyer_protection_info>
+   <auction_info>
+     <current_bid> $1,025.00</current_bid>
+     <time_left> 2 days, 6 hours +</time_left>
+     <high_bidder> 
+        <bidder_name> hsclm9@peganet.com</bidder_name>
+        <bidder_rating>0 </bidder_rating>
+     </high_bidder>
+     <num_items> 1</num_items>
+     <num_bids>  29</num_bids>
+     <started_at> $0.01</started_at>
+     <bid_increment> </bid_increment>
+     <location> usa/los angeles</location>
+     <opened> nov-26-00 20:50:33 pst</opened>
+     <closed> nov-29-00 20:50:33 pst</closed>
+     <id_num> 511443245</id_num>
+     <notes>  </notes>
+   </auction_info>
+   <bid_history>
+       <highest_bid_amount>$1,025.00
+       </highest_bid_amount>
+       <quantity> 1</quantity>
+   </bid_history>
+   <item_info>
+      <memory> 256mb pc-133 sdram </memory>
+      <hard_drive> 45gb ibm deskstar ata100 7200rpm </hard_drive>
+      <cpu> intel pentium iii 933eb-mhz coppermine cpu </cpu>
+      <brand> cybertech</brand>
+      <description> intel pentium iii 933eb-mhz coppermine cpu retail box 
+
+msi 815e pro intel solano2 815e ata100, 4x agp motherboard 
+
+256mb pc-133 sdram (lifetime warranty!!)
+
+45gb ibm deskstar ata100 7200rpm gmr head hard drive 
+
+ati radeontm 32mb ddr gpu graphic engine 
+most powerful video card in market today!!! 
+
+19" kds avitron av-195tf fd sony trinitron. technology super fine 0.24mm dot pitch, super clear, true flat screen professional graphic monitor 
+  
+pioneer 5th generation 16x dvd-rom drive 
+  
+teac cdw512 12x10x32x cd-rw internal drive (very fast!!!) 
+
+ac ' 97 digital full duplex sound card 
+
+altec lansing acs 54w 5-piece subwoofer set 
+  
+lucent 56.6k v.90 standard data/fax pci modem 
+1.44mb 3.5" floppy drive 
+
+transparent hi-res ps/2 mouse
+translucent multimedia internet smart ps/2 keyboard
+translucent i-pc color super mid tower case w/ 300watts p/s 
+  
+3 year limited parts and 1 year labor warranty 
+(all systems are complete and brand new.) 
+upgrades available!   
+  amazing speed, highest quality, super power, and great looks......!  
+    specifications   
+
+motherboard   
+
+ 
+   msi 815e pro (ms-6337) 
+ cpu
+support socket 370 for intel(r) celerontm/pentium(r)
+iii (fc-pga) processor
+supports 500mhz~933mhz or faster processor 
+
+ chipset
+intel(r) 815e chipset. (544 bga)
+-- agp 4x/2x universal slot
+-- supports 66/100/133mhz fsb
+
+intel(r) ich2 chipset. (241 bga)
+-- ac!&amp;97 controller integrated
+-- 2 full ide channels, up to ata100
+-- low pin count interface for sio
+
+ fsb
+supports 66/100/133mhz fsb
+
+ main memory
+supports four 168-pin dimm sockets.
+supports 32 to 512mb using 16/64/128/256mbit technology.
+
+ slots
+one cnr (communication network riser).
+one agp (accelerated graphics port) 2x/4x slot.
+five pci 2.2 32-bit master pci bus slots.
+supports 3.3v/5v pci bus interface.
+
+ on-board ide
+an ide controller on the ich2 chipset provides ide hdd/cd-rom with pio,
+bus master and ultra dma 66/100 operation modes.
+can connect up to four ide devices.
+
+ audio
+ich2 chip integrated
+supports 6 or 4 channel audio
+
+ video
+gmch chip integrated
+2d/3d graphics
+intel(r) d.v.m technology
+flexible agp in-line memory module (aimm) (optional)
+one agp slot for external agp card
+
+ on-board peripherals
+on-board peripherals include:
+-- 1 floppy port supports 2 fdd with 360k, 720k, 1.2m, 1.44m and 2.88mbytes.
+-- 1 serial ports (com a)
+-- 1 parallel port supports spp/epp/ecp mode
+-- 4 usb ports ( rear*2 / front*2 )
+-- 1 vga port
+
+ bios
+the mainboard bios provides "plug &amp; play" bios which detects the peripheral
+devices and expansion cards of the board automatically.
+the mainboard provides a desktop management interface(dmi) function which
+records your mainboard specifications.
+
+ 
+  
+
+cpu   
+   
+the intel. pentium. iii 933eb-mhz coppermine with 256k on-die cache
+
+the intel. pentium. iii processor, intel
+      </description>
+   </item_info>
+</listing>
+
+                   <listing>
+   <seller_info>
+       <seller_name>bestbuys4systems </seller_name>
+       <seller_rating> 28</seller_rating>
+   </seller_info>
+   <payment_types>visa/mastercard, american express, money order/cashiers checks, personal checks
+   </payment_types>
+   <shipping_info>buyer pays fixed shipping charges, will ship to united states only
+   </shipping_info>
+   <buyer_protection_info>
+   </buyer_protection_info>
+   <auction_info>
+     <current_bid> $610.00</current_bid>
+     <time_left> 2 days, 5 hours +</time_left>
+     <high_bidder> 
+        <bidder_name> wizbang4</bidder_name>
+        <bidder_rating>5 </bidder_rating>
+     </high_bidder>
+     <num_items> 1</num_items>
+     <num_bids>  16</num_bids>
+     <started_at> $100.00</started_at>
+     <bid_increment> </bid_increment>
+     <location>allentown, pa 18109 </location>
+     <opened> nov-26-00 19:59:42 pst</opened>
+     <closed>  nov-29-00 19:59:42 pst</closed>
+     <id_num> 511364992</id_num>
+     <notes>  </notes>
+   </auction_info>
+   <bid_history>
+       <highest_bid_amount>$610.00
+       </highest_bid_amount>
+       <quantity> 1</quantity>
+   </bid_history>
+   <item_info>
+      <memory> 256m high quality pc133 sdram</memory>
+      <hard_drive> 45gb ata100 7200rpm hard drive</hard_drive>
+      <cpu> genuine intel pentium iii 1000mhz processor</cpu>
+      <brand> </brand>
+      <description> 
+ genuine intel pentium iii 1000mhz processor
+
+asus cuv4x via apollo pro mainboard (4x agp)
+
+32m nvidia geforce2 mx agp video card
+
+45gb ata100 7200rpm hard drive
+
+256m high quality pc133 sdram
+
+high performace 8x4x32 cd-rw drive
+
+deluxe screwless case w/ 300w powertec power supply
+
+high quality ball bearing fan guarantees optimum cooling (amd recommended)
+
+high performance desktop speaker system
+
+1.44" floppy drive, 32 bit pci wavetable audio card
+
+56k v.90 internal faxmodem (substitute 10/100 nic card)
+
+win98 style keyboard and logitech mouse
+
+19" 0.26dp monitor included!
+ 
+
+1 year warranty on parts and labor
+      </description>
+   </item_info>
+</listing>
+
+                   <listing>
+   <seller_info>
+       <seller_name> sales@ctgcom.com</seller_name>
+       <seller_rating> 219</seller_rating>
+   </seller_info>
+   <payment_types>visa/mastercard, discover, money order/cashiers checks, personal checks, see item description for payment methods accepted
+   </payment_types>
+   <shipping_info>buyer pays fixed shipping charges, will ship to united states only, see item description for shipping charges
+   </shipping_info>
+   <buyer_protection_info>
+   </buyer_protection_info>
+   <auction_info>
+     <current_bid> $535.00</current_bid>
+     <time_left> 2 days, 5 hours +</time_left>
+     <high_bidder> 
+        <bidder_name> chul2@mail.utexas.edu</bidder_name>
+        <bidder_rating> 0</bidder_rating>
+     </high_bidder>
+     <num_items> 1</num_items>
+     <num_bids>  13</num_bids>
+     <started_at> $0.01</started_at>
+     <bid_increment> </bid_increment>
+     <location> los angeles, ca </location>
+     <opened> nov-26-00 19:56:06 pst</opened>
+     <closed> nov-29-00 19:56:06 pst</closed>
+     <id_num> 511357667</id_num>
+     <notes>  </notes>
+   </auction_info>
+   <bid_history>
+      <highest_bid_amount>$535.00
+       </highest_bid_amount>
+       <quantity> 1</quantity>
+   </bid_history>
+   <item_info>
+      <memory> 256mb sdram</memory>
+      <hard_drive> 40gb hdd</hard_drive>
+      <cpu> intel pentium iii 800mhz</cpu>
+      <brand> </brand>
+      <description>  intel pentium iii 800eb-mhz cpu processor retail box
+
+ micro-star intel 815e pro chipset ata100 motherboard
+
+ 256mb pc-133 sdram (lifetime warranty!!)
+
+ maxtor 40gb ata100 5400rpm head hard drive 
+
+ intel?82815 graphics technology gmch chip video card
+
+ hitachi 12x dvd-rom drive 
+
+ yamaha 8x4x24 cd-rw internal drive
+
+ intel?ich/ac'97 full duplex sound card 
+
+ lucent 56k v.90 standard data/fax pci modem or 10/100 nic 
+
+ 4q 160w pmpo dual power amplified speaker set
+
+ 1.44mb 3.5" floppy drive 
+
+ logitech ps/2 hi-res. mouse 
+
+ internet multimedia ps/2 keyboard 
+
+ super mid tower case w/ 250watts power supply 
+
+ 1 year limited parts and 1 year labor warranty
+
+      </description>
+   </item_info>
+</listing>
+</root>

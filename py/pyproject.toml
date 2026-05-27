@@ -1,0 +1,26 @@
+[project]
+name = "micro-jax"
+version = "0.1.0"
+description = "A tiny educational reimplementation of JAX — what micrograd is to PyTorch, micro-jax is to JAX."
+authors = [
+    { name = "oskar-bz", email = "osseldossel@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=7",
+]
+examples = [
+    "matplotlib>=3.7",
+]
+
+[build-system]
+requires = ["uv_build>=0.10.9,<0.11.0"]
+build-backend = "uv_build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
